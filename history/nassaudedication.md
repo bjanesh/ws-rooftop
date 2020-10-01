@@ -1,0 +1,95 @@
+---
+title: Nassau Dedication
+permalink: /history/nassau
+layout: default
+parent: History
+nav_order: 3
+---
+
+## The Dedication of the Nassau Astronomical Station of Case Institute of Technology
+
+### September 7th, 1957
+
+### Dr. Jason J. Nassau
+
+<hr/>
+
+To dedicate an observatory in the open spaces even when the skies are threatening is appropriate.
+
+Perhaps it would have been still more appropriate if the Nassau Astronomical Station ceremonies took place in the evening instead of the afternoon. The heavens at 10 pm this time of year are in full glory. We would see the Milky Way stretching from the southwest to the northeast. The Sagittarius Star Clouds are low in the south horizon. In this direction the center of our Stellar System is located. Overhead lies the constellation of Cygnus and the Great Rift in the Milky Way extending from the middle star of the Northern Cross to the Southern Cross below the horizon.
+
+A nearby interstellar cloud obscures the myriads of stars of the background. Low in the north lies the "W" of Cassiopeia and near it the naked eye double cluster in Perseus. This is the part of the domain which we will be exploring from this new location. It is one of the most beautiful parts of the sky and it is full of challenges. But let me start from the beginning.
+
+Geographically speaking, Case astronomy started at 7 Rockwell St., the home of the founder of the College, Leonard Case Jr. It moved to East 40th St., the home of the first professor of astronomy where a telescope was available. Next it moved to the present campus at University Circle and still later to the Warner and Swasey Observatory at Taylor Rd. Now, still moving east, to the present location. In the distance, the Nassau Station is 40 miles from the place of birth and in time, 75 years.
+
+The original policy of the new College was entrusted to lawyers and businessmen, five in all, lifelong friends of Leonard Case Jr. All of a sudden they found themselves confronted with a task of creating a college with new concepts in an intellectual wilderness. Cleveland, in 1880, did not have a university or a college. The country at the time had only three technical schools and their educational policies did not seem to suit the five men.
+
+The first circular of the College, however, gives us the impression that a sound policy was formulated. We read that the school should "provide a thorough technical and professional training in the principles of natural and physical science, with their application to the arts."
+
+Early appointments to the faculty reflected the aims of the five trustees. They included Albert A. Michelson in physics, Charles F. Mabery in chemistry and John N. Stockwell in mathematics and astronomy. They were chosen primarily for their ability to do research. The income of the College for the first year was only $35,000 and yet the trustees made available to young Michelson the sum of $10,000 to buy scientific equipment. These actions may well express their ideas for the new College - a place where the teaching and research may go hand in hand. This was a pioneering concept in American education during this period.
+
+Let us trace, at least in part, the origin of their ideas. All five trustees knew the founder well - the poet, the writer, the serious student of science, the 19th century humanist. They also knew his close friend and associate in science, John N. Stockwell, the astronomer. The influence of these two men was bound to find expression in the planning of the policy of the new school. The first had passed away; the other was available and ready to help and he did.
+
+I'll begin with a story which I often heard from the lips of Eckstein Case, the cousin of the founder. The story was also published by James D. Garfield, a trustee and later by Eckstein Case.
+
+It was in 1865 when a young farmer went to Cobb's Book Store at Public Square to inquire about a copy of Laplace's "*Mechanique Celeste*." Mr. Cobb told him that no copy was available and the only person who might have a copy in the city was Leonard Case Jr. Mr. Cobb took the man's name and address.
+
+A few days later, Mr. Case came to the store and Mr. Cobb related the incident to him. The next day, Mr. Case rode to Stockwell's home in Brecksville where he found him hoeing potatoes. This was the beginning of a lasting friendship and collaboration in astronomical research. Later Mr. Case persuaded him to move to Cleveland and materially supported his scientific activities.
+
+For a number of years I have related this story to my students. It provided me with the opportunity to tell them something about their College and about Laplace and celestial mechanics. About ten years ago I had the good fortune of examining the very book. Mrs. S. A. Covert, a grandaughter of Stockwell, presented the four volumes to the College. The inside cover carries the sticker of cobb's Book Store. In one of them, in long hand, was the cost of the binding - $1.50 for each volume; also in decorative letters, the name of Stockwell and the date, July 3, 1852.
+
+Here was a serious discrepency in our story - a difference of 13 years. Could it be that the story was fiction? We know that Stockwell had dealings with Mr. Cobb for nearly 15 years before the incident of 1865.
+
+The story is essentially true and when all the facts are known it becomes more meaningfull. According to Stockwell's own narrative in the spring of 1865, he did go to Mr. Cobb's book store and through this visit met Mr. Case, just as the story relates. However, the book he was going to purchase was not Laplace's "*Mechanique Celeste*," but a book on "Probabilities," published in England, which Mr. Case had in his library. Stockwell bought Laplace's book when he was 20 years of age for $40 for the four volumes. This was half of his summer's earnings on the farm. According to his story, only three years before, he had finished mastering his first book on algebra.
+
+It was natural that the trustees of the College would seek the advice of Stockwell. After they had visited a number of the eastern educational institutions, they sent Stockwell on a similar mission. He went to the newly founded John Hopkins University and to the University of Pennsylvania. There, he sought the advice of his friend, the astronomer, Benjamin Gould. The trustees invited Mr. Gould to Cleveland and after spending a day with them, he drafted a letter expressing his views on the policy of the new College. It seems that Stockwell also was asked to write up the general policy. Evidence for this is to be found in his handwriting, on two sheets of paper, the very words which were printed later in the first circular of the College.
+
+Thus far I have tried to point out the probably sources of the ideas which formulated the policy of Case Institute and that the pursuit of research was part of the policy. When the College opened its doors in 1882, the curricula included mathematics, physics, chemistry, French and German. In 1884, astronomy was introduced to the junior students.
+
+Our narrative now takes us to New England, where two men met in a machine shop in Exeter, N.H. To one of them Worcester R. Warner, the study of astronomy was a source of delight since early youth. His interest soon inspired his young friend, Ambrose Swasey. Soon this subject became an added bond between them. They talked and thought and built small telescopes for many years. In 1880 they decided to enter business for themselves, having for their capital, 11 years of joint savings.
+
+It was most fortunate for Cleveland and indeed for Case, when in 1881, they decided to settle here. Their business was to build machine tools and instruments of precision of the highest standard. But telescopes have the same requirements. It is not difficult, therefore, to understand that soon after establishing themselves, they turned their attention to the design of a telescope. As a matter of fact, a year after the opening of their business, they constructed and sold their first telescope, a 9½-inch refractor for Beloit College.
+
+In less than two years, the partners faced one of their greatest challenges. The Lick Observatory trustees were in the market for the largest and most powerful telescope in the world. Mr. Warner and Mr. Swasey decided to bid for the job. Their bid was the highest submitted, but theirs was the best. They received the contract. Thus a career of telescope making began which in a measure raised America to its undisputed supremacy in astronomy. Their telescopes are monuments serving science all over the world. They used to say that they made their money by building lathes and spent it by making telescopes for astronomers. From my own experience I can testify this is correct.
+
+Mr. Warner and Mr. Swasey were not just builders of telescopes. Their early enthusiasm in astronomy was too deep to be neglected. At the turn of the century they built their homes side by side on Euclid Ave. and 79th St. Between them, they erected an observatory. In it, they mounted a 9½-inch refractor which served their yearning for the stars. Both were elected trustees of Case and served the College with their sound judgment and counsel. Their financial contributions to the College were most generous and they were not limited to astronomy.
+
+After the resignation of Professor Stockwell in 1887, Charles S. Howe was appointed Kerr professor of mathematics and astronomy, a professorship now held by Dr. Sidney W. McCuskey'29 \[*sic*]. Howe served in this capacity for 14 years. Then he became the second president of the college. During his period as professor, the Case Observatory was established in a temporary structure, just in front of the present physics building. It housed two meridian telescopes and the 9-inch almacantar, an instrument of unique design for the determination of the position of stars. Dr. Howe also established our research astronomical library.
+
+The successor to President Howe in astronomy was Dr. Delonza T. Wilson. His particular interest in research was the determination of the orbits of comets and asteroids. It was during his period that Mr. Warner and Mr. Swasey provided funds for the establishment of the Warner and Swasey Observatory in East Cleveland. It was dedicated in 1920, with an address by Dr. W. W. Campbell, director of the Lick Observatory. Its principal instrument was the 9½-inch refractor from Mr. Warner and Mr. Swasey's private observatory. Other equipment included three meridian telescopes, two Riefler clocks and auxiliary equipment.
+
+It was a beautiful observatory, complete in every way. I fell in love with the place when President Howe took me through it in August 1921. I must confess that my primary attraction to Case was the observatory and Dr. Dayton C. Miller, professor of physics. Now after 36 years at Case, the attractions are all around us, in material things lke the Nassau Station, in my work, but above all in the people.
+
+It was during my first year at Case that we organized and incorporated the Cleveland Astronomical Society. Throughout its long and active career, the Society has been a tremendous help and inspiration. In a number of ways, it is composed of a unique group of people - the members are more ready to serve than to be served. Through the Society, it is possible to bring to Cleveland for lectures outstanding scientists from all over the world. They often prolong their visits to see our work and discuss astronomy. To celebrate its 25th anniversary, the Society established an annual fellowship. This gives an opportunity for young astronomers with a doctor's degree to spend a year of study and research at the Observatory.
+
+When the time came in 1938 to enlarge our astronomical facilities, it was to the members of the Society that we looked for support. A sum of nearly $250,000 was raised for the addition to the Warner and Swasey Observatory. Our principal gifts came from the families of the original donors. The beautiful auditorium, which our Society proudly claims for its home, was the gift of Mrs. Worcester R. Warner and her daughter, Helen. It is a fitting memorial to Mr. Warner. Throughout his life, he derived inspiration from the unfolding mysteries of the skies. In the fall of 1940, the new building was dedicated with an address by Prof. Otto Struve of the University of California.
+
+In 1939, everyone concerned with the project agreed that the type of telescope to build for the observatory must not be of conventional design. Our thoughts were on the new type of instrument which had been invented eight years previously by Bernard Schmidt, the optical worker of the Hamburg, Germany, Observatory.
+
+The astronomical world was beginning to get excited over the many advantages of this type of telescope. At the time, no large Schmidts were in existence. It was a challenge and the Warner and Swasey Co. met it by building the mounting and the optics. When it was finally tested by taking photographs of stars in the fall of 1941, it met all of our expectations. To this day it is a model for contemplated Schmidts. Mrs. Edward P. Burrell, the widow of the chief engineer of the company, provided $32,000 to defray in part the cost of this instrument. It has already served us well, we expect that it will serve us better in the clear atmosphere at the Nassau Station.
+
+The effectiveness of a Schmidt-type telescope as an instrument of research is materially increased when a prism is placed in front of the lens. Light will pass through the prism and be analyzed before passing through the optical system to the focus. Each star image will appear as a narrow streak, a spectrum, instead of a round dot. Thus the spectra of thousands of stars may be photographed at the same time.
+
+In the beginning, we had no such prism, although it was much in our minds. We were in the midst of World War II and it was close to a miracle that in 1943 we were able to acquire our first prism. Made of flint glass, the prism has an angle of 4°. The Bausch and Lomb Optical Co. which furnished the blank, claimed that it was the largest optical flint annealed in the United States. Our second prism, having an angle of 2°, was completed in 1946. Much of the equipment needed for our new telescope, including the two prisms, was made possible through a gift of Mr. and Mrs. Warren Henderson in memory of Mr. Swasey.
+
+Rich results were obtained with the use of these prisms in combination with the Schmidt-type "Burrell Telescope." Stellar spectra reveal the chemical composition of stars, their surface temperature and their intrinsic colors. In a number of cases, the intrinsic brightness of stars can be determined; that is, how many times brighter or fainter they are when compared to our sun.
+
+Our efforts were concentrated by collecting observational material of this sort for the stars in our galaxy. Nine selected regions were chosen by Dr. Sidney W. McCuskey'29 \[*sic*] for the determination of the stellar density of the different types of stars as far out in space as 2,000 light years. A spectral survey along the Milky Way was made which, among other things, yielded 900 stars, each at least 6,000 times brighter than our sun. These stars were later used in locating spiral arms in our stellar system.
+
+Colleges, as well as observatories, need more than buildings and equipment. With this in mind, the Warners came to our assistance again. In 1945, they provided a sustaining fund for research and another fund for the maintenance of the observatory. In addition, Miss Helen Warner established the publication fund which bears her name. In recognition of her great interest in this observatory, the American Astronomical Society elected her a patron of the Society.
+
+In 1948 our pioneering work in observing the infrared light of stars commenced. We were able to secure spectra of extremely faint and extremely distant stars. This enabled us to penetrate space as far as the nucleus of our galaxy, some 30,000 light years. The work in this field was emphasized, as the interference of the bright sky of Cleveland was not as great as now.
+
+Through our efforts, the knowledge of red giant stars was materially increased. They have been found in great numbers forming part of the disk population of our Stellar System. Also it was shown that the galactic nucleus contains a large number of such stars. Many relatively rare red stars were discovered. They were detected from their infrared spectra as they showed the presence of lanthanum oxide, a rare earth compound, in their atmospheres.
+
+Our surveys also yielded over 100 supergiant red stars many thousand times brighter than our own sun. In looking ahead, we aim to reach farther into space. At the same time, we will attempt to find very faint red stars which may be in some clusters. During the last three months Dr. Victor M. Blanco and Dr. Gordon Grant detected such stars in one cluster with our instrument at this location. This might throw light on the problem of the early evolution of stars.
+
+We are witnessing another step in the development of our astronomical facilities. Just three years ago this month, Pres. T. Keith Glennan advised me that we may go ahead with this new station. However, we had a little head start on him. During the previous year, Maynard Murch and I made a thorough search for a suitable location for the new observatory. The Cleveland Astronomical Society again came to our assistance, just as it did during our previous undertaking. In December 1954, a committee under the chairmanship of David Dietz, science editor of the Scripps-Howard Newspapers, was organized. Here President Glennan had a head start on us. He announced to the Society that in November, Miss Helen Warner had pledged $100,000 towards the project. This, with Mr. Murch's gift signaled the success of our task.
+
+It is gratifying that the National Science Foundation deemed our project had more than a local significance and granted us $20,000. Also, other foundations came to our assistance, such as the Hanna Fund and the Cleveland Foundation. We will have the occasion to refer to the latter when we dedicate our new 36-inch reflector telescope at the Warner and Swasey Observatory in December.
+
+The Austin Co. constructed the Nassau Astronomical Station. Allen Austin provided the land and the landscaping. Miss Wilbert J. Austin was one of the early contributors. This is particularly gratifying to me as the late Wilbert J. Austin'99 \[*sic*] had done so much toward our previous undertaking.
+
+I am very happy that so many who have helped us with gifts, services and genuine interests attended the dedication. I thank you all most sincerely. You have given us the means for more efficient exploration of the universe, in order that we all may acquire a little better understanding of the world around us.
+
+What you have done we consider as a trust. We hope we will be worthy of it. The Nassau Station which we dedicated Sept. 7 expresses the spirit of research, one of Case Institute's earliest traditions.
