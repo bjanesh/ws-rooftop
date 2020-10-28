@@ -1,6 +1,6 @@
 ---
 title: Nassau Dedication
-permalink: /history/nassau
+permalink: /history/nassau.html
 layout: default
 parent: History
 nav_order: 3

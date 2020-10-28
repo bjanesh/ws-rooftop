@@ -1,6 +1,6 @@
 ---
 title: Warner Dedication
-permalink: /history/warner
+permalink: /history/warner.html
 layout: default
 parent: History
 nav_order: 1

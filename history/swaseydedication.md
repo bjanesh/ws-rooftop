@@ -1,6 +1,6 @@
 ---
 title: Swasey Dedication
-permalink: /history/swasey
+permalink: /history/swasey.html
 layout: default
 parent: History
 nav_order: 2

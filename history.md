@@ -1,7 +1,7 @@
 ---
 layout: default
 title: History
-permalink: /history/main
+permalink: /history/main.html
 nav_order: 2
 has_children: true
 has_toc: false
