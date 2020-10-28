@@ -130,6 +130,7 @@ dmypy.json
 
 # Jekyll
 _site/
+_data/
 *-cache/
 .jekyll-metadata
 
@@ -156,3 +157,4 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+.nova
