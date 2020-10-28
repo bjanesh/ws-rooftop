@@ -130,7 +130,6 @@ dmypy.json
 
 # Jekyll
 _site/
-_data/
 *-cache/
 .jekyll-metadata
 
@@ -147,6 +146,8 @@ Gemfile.lock
 .DS_Store
 *.swp
 *~
+*.csv
+_data/*.csv
 
 # Folders
 /vendor
